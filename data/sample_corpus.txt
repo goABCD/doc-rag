@@ -1,0 +1,15 @@
+# Macau Tourism and Economic Diversification (Demo Corpus)
+
+This sample document is for demonstrating a local RAG pipeline. It is not official government text.
+
+## Background
+Macau's economy has long been concentrated in the gaming sector. Policy discussions often emphasize diversification into tourism services, conventions and exhibitions, finance, and technology-related services.
+
+## Labor and Skills
+When one industry dominates employment, labor supply and skill formation can become path-dependent. Students and workers may cluster into roles tied to gaming and hospitality, while data, analytics, and digital operations roles grow more slowly.
+
+## Data Management Angle
+Public statistical yearbooks, visitor arrivals, and industry share tables can be chunked, embedded, and retrieved to answer management questions such as: How did visitor structure change? Which sectors grew relative share? What risks follow from concentration?
+
+## Using This File
+Ask the RAG demo questions that can be answered from the paragraphs above. If the answer is not in the text, the model should say it does not know.
